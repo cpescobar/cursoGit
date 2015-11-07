@@ -1,0 +1,7 @@
+target 
+libs
+.jazzignore
+.idea
+.settings
+.metadata
+
